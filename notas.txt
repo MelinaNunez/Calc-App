@@ -1,0 +1,16 @@
+/*import React from 'react'
+import ReactDOM from 'react-dom' //*siempre tienen q estar en el package.json'*/
+//importar el componente
+/*import App from './App'
+//utilizar el componente
+ReactDOM.render(<App />, //*primer prm espera el contenido de la app y el seg el punto de montaje, donde se ubica la app en el html */ */
+  /*  document.getElementById('root'))
+
+encuentra el root que estaba en el html y mediante el reactDOM incorpora dentro del div que tiene el id root
+
+onClickOperation = el usuario hace sobre sobre "+ - / *"
+
+onClickEqual = el usuario hace click sobre el "="
+
+internamente se usa button
+
